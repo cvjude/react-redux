@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-redux/static/css/main.6b6a4eb6.chunk.css",
+    "main.js": "/react-redux/static/js/main.8c2624ff.chunk.js",
+    "main.js.map": "/react-redux/static/js/main.8c2624ff.chunk.js.map",
+    "runtime~main.js": "/react-redux/static/js/runtime~main.e2ec0b4c.js",
+    "runtime~main.js.map": "/react-redux/static/js/runtime~main.e2ec0b4c.js.map",
+    "static/js/2.67770484.chunk.js": "/react-redux/static/js/2.67770484.chunk.js",
+    "static/js/2.67770484.chunk.js.map": "/react-redux/static/js/2.67770484.chunk.js.map",
+    "index.html": "/react-redux/index.html",
+    "precache-manifest.f8dd51486dec37d8c5aca3e9c3b5a011.js": "/react-redux/precache-manifest.f8dd51486dec37d8c5aca3e9c3b5a011.js",
+    "service-worker.js": "/react-redux/service-worker.js",
+    "static/css/main.6b6a4eb6.chunk.css.map": "/react-redux/static/css/main.6b6a4eb6.chunk.css.map",
+    "static/media/pokeball.png": "/react-redux/static/media/pokeball.fd721f81.png"
+  }
+}
